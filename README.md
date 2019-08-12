@@ -1,3 +1,3 @@
 # testrep
-print("test rep")
+test rep
 
