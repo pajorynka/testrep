@@ -4,3 +4,6 @@ def cap_text(text):
     Output - capitalized string
     """
     return text.title()
+
+print ("version changed")
+
