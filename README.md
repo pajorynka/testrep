@@ -1,2 +1,3 @@
 # testrep
-test rep
+print("test rep")
+
